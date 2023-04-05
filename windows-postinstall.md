@@ -388,7 +388,7 @@ Then restart Terminal again, which should launch a PowerShell console. A PowerSh
 
 ### Sublime Text
 
-We've already used Sublime Text above; it's available as a portable install from OneDrive's *Everywhere\Apps\Sublime Text* folder. While Sublime Text is open, pin it to the Taskbar and to Start.
+We've already used Sublime Text above; it's available as a [portable installation](https://www.sublimetext.com/download) from OneDrive's *Everywhere\Apps\Sublime Text* folder. While Sublime Text is open, pin it to the Taskbar and to Start.
 
 With the portable install, all settings and installed packages should sync from OneDrive. It's likely that the first couple of launches will try reopening the previously opened file/session, but this should be temporary. The PowerShell profile loaded from OneDrive also ensures `subl` is available on PATH.
 
@@ -414,4 +414,4 @@ The packages that should be installed are:
 
 ### Sublime Merge
 
-Sublime Merge is available as a portable installation from OneDrive's *Everywhere\Apps\Sublime Merge* folder. Additionally, the PowerShell profile that is already in place ensures it's on path as `smerge`. Launch if from a Terminal and pin it to Start and the Taskbar.
+Sublime Merge is available as a [portable installation](https://www.sublimemerge.com/download) from OneDrive's *Everywhere\Apps\Sublime Merge* folder. Additionally, the PowerShell profile that is already in place ensures it's on path as `smerge`. Launch if from a Terminal and pin it to Start and the Taskbar.
